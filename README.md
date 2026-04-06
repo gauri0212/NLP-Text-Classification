@@ -1,6 +1,4 @@
 # NLP-Text-Classification
-# NLP Text Classification Project
-
 ## Objective
 To perform NLP preprocessing and build a machine learning model for text classification.
 
